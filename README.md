@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @imaybenix (Nix)
+- Olo Software Engineer II, Rails
